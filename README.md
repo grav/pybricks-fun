@@ -16,6 +16,16 @@ source .venv/bin/activate
 
 ## Uploading hello world
 
+Ensure that the Boost is turned on (pressing the button)
+
 ```bash
 pybricksdev run ble blink.py
 ```
+
+## Running the program
+
+Just press that button!
+
+## Shutting down
+
+Hold that button!
