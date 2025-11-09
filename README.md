@@ -22,6 +22,9 @@ Ensure that the Boost is turned on (pressing the button)
 pybricksdev run ble blink.py
 ```
 
+If `pybricksdev` is not found, 
+run `uv add pybricksdev` and try again.
+
 ## Running the program
 
 Just press that button!
